@@ -6,7 +6,9 @@ gem 'rmagick', '2.13.1'
 gem 'hpricot', '0.8.6'
 gem 'oai', "0.3.0"
 gem 'capistrano', '2.12.0'
+
 gem 'jquery-rails', '2.2.1'
+gem 'jquery-ui-rails', '4.0.2'
 
 gem 'mysql2','0.3.11'
 
