@@ -1,6 +1,6 @@
 // That took forever
-// alert("hello")
-/*  
+alert("hello")
+/* 
 // Append the function to the "document ready" chain
 jQuery(function($) {
   // when the #search field changes
@@ -11,7 +11,7 @@ jQuery(function($) {
 	});
     });
 })
-
+/*
 sert a notice between the last comment and the comment form *
 $("#comment-notice").html('<div class="flash notice"><%= escape_javascript(flash.delete(:notice)) %></div>');
  
